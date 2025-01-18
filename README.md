@@ -1,1 +1,1 @@
-https://github.com/vitartek/2-Basic-HTML-Website/blob/main/basic-html-website.html
+https://roadmap.sh/projects/basic-html-website
