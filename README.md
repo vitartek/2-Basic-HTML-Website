@@ -1,2 +1,1 @@
-# 2-Basic-HTML-Website
-Basic HTML Website
+https://github.com/vitartek/2-Basic-HTML-Website/blob/main/basic-html-website.html
